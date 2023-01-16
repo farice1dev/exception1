@@ -22,7 +22,8 @@ public class Calculator {
 			return divi;
 		}
 		
-		
-	
-
+		public int mod(int a,int b) {
+			int divi=a/b;
+			return divi;
+		}
 }
